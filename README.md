@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-Lyntchh&color=E11F84)
+![](https://komarev.com/ghpvc/?username=your-github-Lyntchh&color=#0000CD)
 
 ![](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=#0000CDsize=25&lines=Hi👋🏻,+Welcome+to+my+Github+page;+I%27m+Lyntchh;estudando+programaçao☕)
 
