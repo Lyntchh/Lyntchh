@@ -1,6 +1,6 @@
-![](https://komarev.com/ghpvc/?username=your-github-Lyntchh&color=#0000CD)
+![](https://komarev.com/ghpvc/?username=your-github-Lyntchh&color=#6959CD)
 
-![](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=#0000CDsize=25&lines=Hi👋🏻,+Welcome+to+my+Github+page;+I%27m+Lyntchh;estudando+programaçao☕)
+![](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=#6959CDsize=25&lines=Hi👋🏻,+Welcome+to+my+Github+page;+I%27m+Lyntchh;estudando+programaçao☕)
 
 
 ## Ola meu nome e Lyntchh estudo programaçao frontend ☕ backend
