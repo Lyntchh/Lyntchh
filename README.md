@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=your-github-Lyntchh&color=E11F84)
 
-![](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=E11F84&size=25&lines=ola👋🏻,+bem vindo+ao+meu+Github+page;+I%27m+Lyntchh;estudandoprogramaçao)
+![](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=E11F84&size=25&lines=Hi👋🏻,+Welcome+to+my+Github+page;+I%27m+Lyntchh;estudando-programaçao+frontend&backend)
 
 ## Ola meu nome e Lyntchh estudo programaçao frontend & backend
 
@@ -23,5 +23,3 @@
   <a href = "mailto:informaticaislife1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-oliveira-871318240" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- 
-  
