@@ -3,7 +3,7 @@
 ![](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=E11F84size=25&lines=Hi👋🏻,+Welcome+to+my+Github+page;+I%27m+Lyntchh;estudando+programaçao☕)
 
 
-## Ola meu nome e Lyntchh estudo programaçao frontend ☕ backend
+## Ola meu nome e Lyntchh sou um desenvolvedor ☕ backend
 
 💻 vicio em tecnologia
 
